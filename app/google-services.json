@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614794563901",
+    "project_id": "strore-data-realtime-c7dc4",
+    "storage_bucket": "strore-data-realtime-c7dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614794563901:android:a222923e13189bec517554",
+        "android_client_info": {
+          "package_name": "com.example.stroredatarealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614794563901-1329ne5af504jv7v46au6b3fvij5gsj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPSI9ucN4SQD28-pTe98IkMCDNrg4oCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614794563901-1329ne5af504jv7v46au6b3fvij5gsj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
